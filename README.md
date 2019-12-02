@@ -1,1 +1,3 @@
 # Home-Prices-Prediction-and-Evaluation
+
+DID LINEAR REGRESSOIN AND POLYNOMIAL REGRESSION
